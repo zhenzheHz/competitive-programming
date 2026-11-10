@@ -1,0 +1,16 @@
+# Local editor and operating system files
+.DS_Store
+.vscode/
+
+# Keep the unfinished library out of this repository
+/library/
+
+# Build artifacts
+*.o
+*.out
+*.exe
+*.class
+
+# Local test data and problem statement documents
+*.in
+*.pdf
