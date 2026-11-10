@@ -2,8 +2,14 @@
 .DS_Store
 .vscode/
 
-# Keep the unfinished library out of this repository
-/library/
+# Keep the library excluded except for explicitly published components
+/library/*
+!/library/atcoder/
+!/library/atcoder/**
+!/library/seg_tree/
+!/library/seg_tree/**
+!/library/magic_tree
+!/library/magic_tree.hpp
 
 # Build artifacts
 *.o
