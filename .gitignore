@@ -12,6 +12,9 @@
 !/library/magic_tree.hpp
 !/library/debug.hpp
 !/library/slow
+!/library/testlib.h
+!/library/fenwick
+!/library/fenwick.hpp
 
 # Build artifacts
 *.o
