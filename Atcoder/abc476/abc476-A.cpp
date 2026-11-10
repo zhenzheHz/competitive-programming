@@ -2,7 +2,7 @@
 // Time : 2026/09/19 20:00:38
 #include <bits/stdc++.h>
 #include <bits/extc++.h>
-#include <debug.h>
+#include <debug.hpp>
 #define int int64_t
 using namespace std;
 using namespace __gnu_pbds;

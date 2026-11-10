@@ -10,6 +10,8 @@
 !/library/seg_tree/**
 !/library/magic_tree
 !/library/magic_tree.hpp
+!/library/debug.hpp
+!/library/slow
 
 # Build artifacts
 *.o

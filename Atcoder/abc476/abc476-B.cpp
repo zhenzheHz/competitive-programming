@@ -3,7 +3,7 @@
 #include <bits/stdc++.h>
 #include <bits/extc++.h>
 #ifdef LOCAL
-#include <debug.h>
+#include <debug.hpp>
 #else
 #define debug(x...)
 #endif
